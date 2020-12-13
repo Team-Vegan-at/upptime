@@ -1,23 +1,23 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: Team-Vegan-at # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
+  - name: Team Vegan.at WWW
+    url: https://www.teamvegan.at
+  - name: Team Vegan.at API
+    url: https://api.teamvegan.at/ping
+  - name: Team Vegan.at Forum
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Team Vegan.at WWW-QS
+    url: https://www-qs.teamvegan.at
+  - name: Team Vegan.at API-QS
+    url: https://api-qs.teamvegan.at/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
