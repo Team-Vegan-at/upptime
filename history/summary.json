@@ -58,19 +58,19 @@
     "url": "https://www-qs.teamvegan.at",
     "icon": "https://favicons.githubusercontent.com/www-qs.teamvegan.at",
     "slug": "team-vegan-at-www-qs",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 382,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "58.16%",
+    "uptimeDay": "58.16%",
+    "uptimeWeek": "58.16%",
+    "uptimeMonth": "58.16%",
+    "uptimeYear": "58.16%",
+    "time": 996,
+    "timeDay": 996,
+    "timeWeek": 996,
+    "timeMonth": 996,
+    "timeYear": 996,
     "dailyMinutesDown": {
-      "2020-12-13": 0
+      "2020-12-13": 294
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://api-qs.teamvegan.at/ping",
     "icon": "https://favicons.githubusercontent.com/api-qs.teamvegan.at",
     "slug": "team-vegan-at-api-qs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 407,
-    "timeDay": 407,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "58.16%",
+    "uptimeDay": "58.16%",
+    "uptimeWeek": "58.16%",
+    "uptimeMonth": "58.16%",
+    "uptimeYear": "58.16%",
+    "time": 387,
+    "timeDay": 387,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2020-12-13": 0
+      "2020-12-13": 294
     }
   }
 ]
