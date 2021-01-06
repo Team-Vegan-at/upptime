@@ -1,7 +1,7 @@
-url: https://api-qs.teamvegan.at/ping  
-status: up
-code: 200
-responseTime: 444
-lastUpdated: 2021-01-05T23:20:15.660Z
+url: https://api-qs.teamvegan.at/ping
+status: down
+code: 404
+responseTime: 379
+lastUpdated: 2021-01-06T05:42:02.223Z
 startTime: Sun Dec 13 2020 05:23:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
