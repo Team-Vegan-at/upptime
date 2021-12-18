@@ -8,7 +8,7 @@ sites:
     url: https://www.teamvegan.at
   - name: Team Vegan.at API
     url: https://api.teamvegan.at/ping
-  - name: Team Vegan.at Membership Poratl
+  - name: Team Vegan.at Membership Portal
     url: https://mitgliedschaft.teamvegan.at
   - name: Team Vegan.at Forum
     url: https://mitglieder.teamvegan.at
