@@ -4,7 +4,7 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Team Vegan.at WWW
+  - name: Team Vegan.at Web
     url: https://www.teamvegan.at
   - name: Team Vegan.at API
     url: https://api.teamvegan.at/ping
@@ -12,10 +12,8 @@ sites:
     url: https://mitgliedschaft.teamvegan.at
   - name: Team Vegan.at Forum
     url: https://mitglieder.teamvegan.at
-  - name: Team Vegan.at WWW-QS
-    url: https://www-qs.teamvegan.at
-  - name: Team Vegan.at API-QS
-    url: https://api-qs.teamvegan.at/ping
+  - name: Team Vegan.at Cloud
+    url: https://cloud.teamvegan.at/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
