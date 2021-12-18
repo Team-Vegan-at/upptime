@@ -13,7 +13,7 @@ sites:
   - name: Team Vegan.at Forum
     url: https://mitglieder.teamvegan.at
   - name: Team Vegan.at Cloud
-    url: https://cloud.teamvegan.at/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+    url: https://cloud.teamvegan.at
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
