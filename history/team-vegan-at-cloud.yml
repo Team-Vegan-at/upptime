@@ -1,7 +1,7 @@
 url: https://cloud.teamvegan.at
-status: up
-code: 200
-responseTime: 1066
-lastUpdated: 2023-03-10T23:08:35.356Z
+status: down
+code: 502
+responseTime: 529
+lastUpdated: 2023-03-11T07:31:25.459Z
 startTime: Sat Dec 18 2021 06:19:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
