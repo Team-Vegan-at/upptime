@@ -1,7 +1,7 @@
 url: https://api.teamvegan.at/ping
-status: down
-code: 404
-responseTime: 411
-lastUpdated: 2023-12-24T02:18:27.072Z
+status: up
+code: 200
+responseTime: 1146
+lastUpdated: 2023-12-24T02:35:09.381Z
 startTime: 2020-12-13T05:22:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
