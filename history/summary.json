@@ -185,9 +185,9 @@
     "slug": "team-vegan-at-cloud",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.68%",
     "time": 1011,
     "timeDay": 1141,
@@ -195,7 +195,6 @@
     "timeMonth": 1133,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2024-07-17": 12,
       "2024-06-23": 17,
       "2024-01-15": 373,
       "2024-01-14": 1296
