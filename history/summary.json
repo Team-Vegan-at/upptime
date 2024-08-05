@@ -6,17 +6,16 @@
     "slug": "team-vegan-at-web",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.51%",
     "time": 2126,
-    "timeDay": 1130,
-    "timeWeek": 1567,
-    "timeMonth": 1916,
-    "timeYear": 2082,
+    "timeDay": 1097,
+    "timeWeek": 1557,
+    "timeMonth": 1885,
+    "timeYear": 2079,
     "dailyMinutesDown": {
-      "2024-08-04": 6,
       "2024-07-31": 16,
       "2024-07-21": 15,
       "2024-06-23": 17,
@@ -42,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.80%",
-    "time": 5268,
-    "timeDay": 559,
-    "timeWeek": 571,
-    "timeMonth": 614,
-    "timeYear": 4644,
+    "time": 5234,
+    "timeDay": 456,
+    "timeWeek": 556,
+    "timeMonth": 613,
+    "timeYear": 4604,
     "dailyMinutesDown": {
       "2024-07-28": 70,
       "2024-07-21": 60,
@@ -82,8 +81,7 @@
       "2023-09-24": 50,
       "2023-09-17": 59,
       "2023-09-10": 59,
-      "2023-08-27": 20,
-      "2023-08-06": 19
+      "2023-08-27": 20
     }
   },
   {
@@ -98,10 +96,10 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.81%",
     "time": 3172,
-    "timeDay": 431,
-    "timeWeek": 551,
-    "timeMonth": 626,
-    "timeYear": 2922,
+    "timeDay": 449,
+    "timeWeek": 533,
+    "timeMonth": 624,
+    "timeYear": 2900,
     "dailyMinutesDown": {
       "2024-07-28": 70,
       "2024-07-21": 60,
@@ -136,8 +134,7 @@
       "2023-09-17": 71,
       "2023-09-13": 18,
       "2023-09-10": 59,
-      "2023-08-27": 20,
-      "2023-08-06": 19
+      "2023-08-27": 20
     }
   },
   {
@@ -152,9 +149,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.83%",
     "time": 868,
-    "timeDay": 666,
-    "timeWeek": 781,
-    "timeMonth": 783,
+    "timeDay": 711,
+    "timeWeek": 762,
+    "timeMonth": 780,
     "timeYear": 884,
     "dailyMinutesDown": {
       "2024-07-28": 70,
@@ -183,8 +180,7 @@
       "2023-09-03": 21,
       "2023-08-27": 20,
       "2023-08-20": 24,
-      "2023-08-13": 17,
-      "2023-08-06": 19
+      "2023-08-13": 17
     }
   },
   {
@@ -199,9 +195,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.67%",
     "time": 1012,
-    "timeDay": 934,
-    "timeWeek": 898,
-    "timeMonth": 963,
+    "timeDay": 792,
+    "timeWeek": 882,
+    "timeMonth": 954,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2024-08-02": 30,
