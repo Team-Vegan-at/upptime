@@ -1,7 +1,7 @@
 url: https://mitglieder.teamvegan.at
-status: up
-code: 200
-responseTime: 636
-lastUpdated: 2024-11-02T23:11:26.175Z
+status: down
+code: 429
+responseTime: 435
+lastUpdated: 2024-11-03T20:53:05.097Z
 startTime: 2020-12-13T05:23:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
