@@ -42,17 +42,16 @@
     "slug": "team-vegan-at-api",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "80.20%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "81.10%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "99.35%",
     "time": 2908,
     "timeDay": 543,
     "timeWeek": 3876,
     "timeMonth": 4372,
     "timeYear": 2507,
     "dailyMinutesDown": {
-      "2025-01-26": 13,
       "2025-01-25": 78,
       "2025-01-24": 18,
       "2025-01-23": 16,
@@ -112,9 +111,9 @@
     "slug": "team-vegan-at-membership-portal",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.72%",
     "time": 1767,
     "timeDay": 899,
@@ -122,7 +121,6 @@
     "timeMonth": 2520,
     "timeYear": 1506,
     "dailyMinutesDown": {
-      "2025-01-26": 12,
       "2025-01-25": 36,
       "2025-01-22": 16,
       "2025-01-20": 16,
@@ -169,8 +167,7 @@
       "2024-03-03": 19,
       "2024-02-25": 19,
       "2024-02-18": 19,
-      "2024-02-11": 18,
-      "2024-01-28": 18
+      "2024-02-11": 18
     }
   },
   {
@@ -217,8 +214,7 @@
       "2024-03-03": 19,
       "2024-02-25": 19,
       "2024-02-18": 19,
-      "2024-02-11": 18,
-      "2024-01-28": 18
+      "2024-02-11": 18
     }
   },
   {
@@ -228,7 +224,7 @@
     "slug": "team-vegan-at-cloud",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "73.69%",
+    "uptimeDay": "79.09%",
     "uptimeWeek": "79.12%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "99.35%",
