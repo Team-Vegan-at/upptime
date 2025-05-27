@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
-    "time": 2227,
-    "timeDay": 1878,
-    "timeWeek": 1688,
-    "timeMonth": 1675,
+    "time": 2228,
+    "timeDay": 2074,
+    "timeWeek": 1644,
+    "timeMonth": 1705,
     "timeYear": 2228,
     "dailyMinutesDown": {
       "2025-03-27": 549,
@@ -53,10 +53,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.08%",
     "time": 2253,
-    "timeDay": 704,
-    "timeWeek": 641,
-    "timeMonth": 663,
-    "timeYear": 1672,
+    "timeDay": 876,
+    "timeWeek": 688,
+    "timeMonth": 676,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2025-05-24": 26,
       "2025-04-14": 30,
@@ -113,8 +113,7 @@
       "2024-07-21": 60,
       "2024-07-07": 48,
       "2024-06-23": 73,
-      "2024-06-09": 31,
-      "2024-05-27": 56
+      "2024-06-09": 31
     }
   },
   {
@@ -129,10 +128,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.59%",
     "time": 1519,
-    "timeDay": 733,
-    "timeWeek": 609,
-    "timeMonth": 560,
-    "timeYear": 1351,
+    "timeDay": 702,
+    "timeWeek": 638,
+    "timeMonth": 567,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2025-05-24": 27,
       "2025-03-28": 332,
@@ -187,8 +186,7 @@
       "2024-07-21": 60,
       "2024-07-07": 48,
       "2024-06-23": 57,
-      "2024-06-09": 31,
-      "2024-05-27": 20
+      "2024-06-09": 31
     }
   },
   {
@@ -203,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 992,
-    "timeDay": 796,
-    "timeWeek": 829,
-    "timeMonth": 818,
+    "timeDay": 833,
+    "timeWeek": 815,
+    "timeMonth": 824,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2025-03-27": 111,
@@ -250,9 +248,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "96.14%",
     "time": 1078,
-    "timeDay": 1108,
-    "timeWeek": 963,
-    "timeMonth": 939,
+    "timeDay": 1251,
+    "timeWeek": 1026,
+    "timeMonth": 954,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2025-05-02": 16,
