@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.09%",
-    "time": 2220,
-    "timeDay": 1513,
-    "timeWeek": 1593,
-    "timeMonth": 1683,
-    "timeYear": 2218,
+    "time": 2219,
+    "timeDay": 1154,
+    "timeWeek": 1488,
+    "timeMonth": 1673,
+    "timeYear": 2214,
     "dailyMinutesDown": {
       "2025-06-05": 17,
       "2025-03-27": 549,
@@ -54,10 +54,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.09%",
     "time": 2135,
-    "timeDay": 375,
-    "timeWeek": 812,
-    "timeMonth": 713,
-    "timeYear": 1679,
+    "timeDay": 447,
+    "timeWeek": 810,
+    "timeMonth": 712,
+    "timeYear": 1678,
     "dailyMinutesDown": {
       "2025-05-24": 26,
       "2025-04-14": 30,
@@ -113,8 +113,7 @@
       "2024-07-28": 70,
       "2024-07-21": 60,
       "2024-07-07": 48,
-      "2024-06-23": 73,
-      "2024-06-09": 31
+      "2024-06-23": 73
     }
   },
   {
@@ -123,16 +122,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitgliedschaft.teamvegan.at.ico",
     "slug": "team-vegan-at-membership-portal",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.59%",
     "time": 1494,
-    "timeDay": 462,
-    "timeWeek": 562,
-    "timeMonth": 581,
-    "timeYear": 1359,
+    "timeDay": 433,
+    "timeWeek": 548,
+    "timeMonth": 579,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-05-24": 27,
       "2025-03-28": 332,
@@ -186,8 +185,7 @@
       "2024-07-28": 70,
       "2024-07-21": 60,
       "2024-07-07": 48,
-      "2024-06-23": 57,
-      "2024-06-09": 31
+      "2024-06-23": 57
     }
   },
   {
@@ -201,11 +199,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.94%",
-    "time": 989,
-    "timeDay": 489,
-    "timeWeek": 627,
-    "timeMonth": 765,
-    "timeYear": 1050,
+    "time": 988,
+    "timeDay": 505,
+    "timeWeek": 608,
+    "timeMonth": 759,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-06-04": 25,
       "2025-03-27": 111,
@@ -234,8 +232,7 @@
       "2024-07-28": 70,
       "2024-07-21": 60,
       "2024-07-07": 48,
-      "2024-06-23": 73,
-      "2024-06-09": 31
+      "2024-06-23": 73
     }
   },
   {
@@ -250,9 +247,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.14%",
     "time": 1083,
-    "timeDay": 761,
-    "timeWeek": 1037,
-    "timeMonth": 1026,
+    "timeDay": 979,
+    "timeWeek": 950,
+    "timeMonth": 1029,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-05-02": 16,
