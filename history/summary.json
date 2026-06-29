@@ -964,16 +964,16 @@
     "url": "https://mitglieder.teamvegan.at",
     "icon": "https://icons.duckduckgo.com/ip3/mitglieder.teamvegan.at.ico",
     "slug": "team-vegan-at-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "84.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "18.21%",
-    "time": 440,
-    "timeDay": 590,
-    "timeWeek": 531,
-    "timeMonth": 659,
+    "time": 436,
+    "timeDay": 537,
+    "timeWeek": 525,
+    "timeMonth": 654,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-07-11": 408,
@@ -1275,7 +1275,8 @@
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
-      "2025-07-12": 1440
+      "2025-07-12": 1440,
+      "2026-06-29": 0
     }
   },
   {
