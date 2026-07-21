@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.teamvegan.at.ico",
     "slug": "team-vegan-at-web",
     "status": "up",
-    "uptime": "81.73%",
+    "uptime": "81.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.50%",
+    "uptimeYear": "20.77%",
     "time": 896,
-    "timeDay": 1255,
-    "timeWeek": 1297,
-    "timeMonth": 1469,
-    "timeYear": 670,
+    "timeDay": 1445,
+    "timeWeek": 1191,
+    "timeMonth": 1475,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -304,8 +304,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   },
   {
@@ -314,16 +313,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.teamvegan.at.ico",
     "slug": "team-vegan-at-api",
     "status": "up",
-    "uptime": "85.04%",
+    "uptime": "85.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.50%",
+    "uptimeYear": "20.77%",
     "time": 561,
-    "timeDay": 496,
-    "timeWeek": 638,
-    "timeMonth": 613,
-    "timeYear": 560,
+    "timeDay": 806,
+    "timeWeek": 641,
+    "timeMonth": 625,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -613,8 +612,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   },
   {
@@ -623,16 +621,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitgliedschaft.teamvegan.at.ico",
     "slug": "team-vegan-at-membership-portal",
     "status": "up",
-    "uptime": "81.84%",
+    "uptime": "81.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.50%",
-    "time": 443,
-    "timeDay": 443,
-    "timeWeek": 512,
-    "timeMonth": 562,
-    "timeYear": 405,
+    "uptimeYear": "20.77%",
+    "time": 444,
+    "timeDay": 686,
+    "timeWeek": 509,
+    "timeMonth": 571,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -922,8 +920,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   },
   {
@@ -932,16 +929,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitglieder.teamvegan.at.ico",
     "slug": "team-vegan-at-forum",
     "status": "up",
-    "uptime": "85.14%",
+    "uptime": "85.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "20.46%",
+    "uptimeYear": "20.73%",
     "time": 389,
-    "timeDay": 458,
-    "timeWeek": 595,
-    "timeMonth": 632,
-    "timeYear": 288,
+    "timeDay": 698,
+    "timeWeek": 598,
+    "timeMonth": 638,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -1232,7 +1229,6 @@
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
-      "2025-07-21": 1440,
       "2026-06-29": 207
     }
   },
@@ -1242,16 +1238,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.teamvegan.at.ico",
     "slug": "team-vegan-at-cloud",
     "status": "up",
-    "uptime": "81.42%",
+    "uptime": "81.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.50%",
-    "time": 533,
-    "timeDay": 965,
-    "timeWeek": 1096,
-    "timeMonth": 1212,
-    "timeYear": 420,
+    "uptimeYear": "20.77%",
+    "time": 534,
+    "timeDay": 1460,
+    "timeWeek": 1099,
+    "timeMonth": 1233,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -1541,8 +1537,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   }
 ]
