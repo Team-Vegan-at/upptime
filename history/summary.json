@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.teamvegan.at.ico",
     "slug": "team-vegan-at-web",
     "status": "up",
-    "uptime": "82.03%",
+    "uptime": "82.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.16%",
-    "time": 876,
-    "timeDay": 1169,
-    "timeWeek": 1467,
-    "timeMonth": 1455,
-    "timeYear": 763,
+    "uptimeYear": "28.43%",
+    "time": 878,
+    "timeDay": 2011,
+    "timeWeek": 1572,
+    "timeMonth": 1467,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -276,8 +276,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   },
   {
@@ -286,15 +285,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.teamvegan.at.ico",
     "slug": "team-vegan-at-api",
     "status": "up",
-    "uptime": "85.24%",
+    "uptime": "85.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.16%",
+    "uptimeYear": "28.43%",
     "time": 562,
-    "timeDay": 564,
-    "timeWeek": 648,
-    "timeMonth": 603,
+    "timeDay": 530,
+    "timeWeek": 640,
+    "timeMonth": 599,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2026-05-06": 343,
@@ -557,8 +556,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   },
   {
@@ -567,16 +565,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitgliedschaft.teamvegan.at.ico",
     "slug": "team-vegan-at-membership-portal",
     "status": "up",
-    "uptime": "82.14%",
+    "uptime": "82.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.16%",
-    "time": 449,
-    "timeDay": 1301,
-    "timeWeek": 708,
-    "timeMonth": 591,
-    "timeYear": 438,
+    "uptimeYear": "28.43%",
+    "time": 448,
+    "timeDay": 452,
+    "timeWeek": 675,
+    "timeMonth": 585,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -838,8 +836,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   },
   {
@@ -848,15 +845,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitglieder.teamvegan.at.ico",
     "slug": "team-vegan-at-forum",
     "status": "up",
-    "uptime": "85.34%",
+    "uptime": "85.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.12%",
+    "uptimeYear": "28.39%",
     "time": 375,
-    "timeDay": 588,
-    "timeWeek": 661,
-    "timeMonth": 603,
+    "timeDay": 417,
+    "timeWeek": 606,
+    "timeMonth": 594,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2026-05-06": 343,
@@ -1120,7 +1117,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2026-06-29": 207
     }
   },
@@ -1130,16 +1126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.teamvegan.at.ico",
     "slug": "team-vegan-at-cloud",
     "status": "up",
-    "uptime": "81.73%",
+    "uptime": "81.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.16%",
+    "uptimeYear": "28.43%",
     "time": 549,
-    "timeDay": 855,
-    "timeWeek": 1123,
-    "timeMonth": 1093,
-    "timeYear": 491,
+    "timeDay": 961,
+    "timeWeek": 1079,
+    "timeMonth": 1076,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -1401,8 +1397,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   }
 ]
