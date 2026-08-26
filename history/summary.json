@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.74%",
+    "uptimeYear": "30.75%",
     "time": 875,
     "timeDay": 1174,
     "timeWeek": 1269,
@@ -276,16 +276,16 @@
     "url": "https://api.teamvegan.at/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.teamvegan.at.ico",
     "slug": "team-vegan-at-api",
-    "status": "up",
+    "status": "down",
     "uptime": "85.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.74%",
+    "uptimeYear": "30.75%",
     "time": 562,
-    "timeDay": 682,
-    "timeWeek": 594,
-    "timeMonth": 606,
+    "timeDay": 598,
+    "timeWeek": 584,
+    "timeMonth": 603,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2026-05-06": 343,
@@ -540,7 +540,8 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-27": 1440,
+      "2026-08-26": 1
     }
   },
   {
@@ -548,17 +549,17 @@
     "url": "https://mitgliedschaft.teamvegan.at",
     "icon": "https://icons.duckduckgo.com/ip3/mitgliedschaft.teamvegan.at.ico",
     "slug": "team-vegan-at-membership-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "82.24%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.74%",
+    "uptimeYear": "30.75%",
     "time": 448,
-    "timeDay": 667,
-    "timeWeek": 519,
-    "timeMonth": 579,
-    "timeYear": 442,
+    "timeDay": 437,
+    "timeWeek": 480,
+    "timeMonth": 567,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -812,7 +813,8 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-27": 1440,
+      "2026-08-26": 0
     }
   },
   {
@@ -821,10 +823,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitglieder.teamvegan.at.ico",
     "slug": "team-vegan-at-forum",
     "status": "down",
-    "uptime": "85.41%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "85.40%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "30.70%",
     "time": 370,
     "timeDay": 568,
@@ -1086,7 +1088,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2026-06-29": 207,
-      "2026-08-26": 0
+      "2026-08-26": 61
     }
   },
   {
@@ -1099,7 +1101,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.74%",
+    "uptimeYear": "30.75%",
     "time": 552,
     "timeDay": 1241,
     "timeWeek": 1212,
